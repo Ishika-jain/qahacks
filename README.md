@@ -2,8 +2,8 @@ API Testing Documentation
 
 This document outlines the test cases for API functionality, using Jest as the testing framework and Supertest for making HTTP requests. The tests ensure that the API behaves as expected, following the defined specifications and validating the correctness of different operations.
 
-You can find the bugs list at [Link Text](/Test%20Documentation/ErrorList.md)
-For Setup Instructions Go to [Link Text](/Test%20Documentation/Setup.md)
+You can find the bugs list at [Error List Doc](/Test%20Documentation/ErrorList.md)
+For Setup Instructions Go to [Setup Instructions](/Test%20Documentation/Setup.md)
 
  Testing Setup:
 - BASE_URL: The API server’s base URL, used to make requests in the test cases.
@@ -17,11 +17,11 @@ For Setup Instructions Go to [Link Text](/Test%20Documentation/Setup.md)
 
 Find test case description for all categories here 
 
-For User Test Case Documentation Go to [Link Text](/Test%20Documentation/userTests.md)
-For Wishlist Test Case Documentation Go to [Link Text](/Test%20Documentation/wishlistTests.md)
-For Cart Test Case Documentation Go to [Link Text](/Test%20Documentation/cartTests.md)
-For Games Test Case Documentation Go to [Link Text](/Test%20Documentation/gamesTests.md)
-For Category Test Case Documentation Go to [Link Text](/Test%20Documentation/categoriesTests.md)
-For Order Test Case Documentation Go to [Link Text](/Test%20Documentation/orderTests.md)
-For Avatar Test Case Documentation Go to [Link Text](/Test%20Documentation/avatarTests.md)
+For User Test Case Documentation Go to [User Test Cases](/Test%20Documentation/userTests.md)
+For Wishlist Test Case Documentation Go to [Wishlist Test Cases](/Test%20Documentation/wishlistTests.md)
+For Cart Test Case Documentation Go to [Cart Test Cases](/Test%20Documentation/cartTests.md)
+For Games Test Case Documentation Go to [Game Test Cases](/Test%20Documentation/gamesTests.md)
+For Category Test Case Documentation Go to [Category Test Cases](/Test%20Documentation/categoriesTests.md)
+For Order Test Case Documentation Go to [Order Test Cases](/Test%20Documentation/orderTests.md)
+For Avatar Test Case Documentation Go to [Avatar Test Cases](/Test%20Documentation/avatarTests.md)
 
