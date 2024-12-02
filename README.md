@@ -2,8 +2,8 @@ API Testing Documentation
 
 This document outlines the test cases for API functionality, using Jest as the testing framework and Supertest for making HTTP requests. The tests ensure that the API behaves as expected, following the defined specifications and validating the correctness of different operations.
 
-You can find the bugs list at [Link Text](/ErrorList.md)
-For Setup Instructions Go to [Link Text](/Setup.md)
+You can find the bugs list at [Link Text](/Test%20Documentation/ErrorList.md)
+For Setup Instructions Go to [Link Text](/Test%20Documentation/Setup.md)
 
  Testing Setup:
 - BASE_URL: The API server’s base URL, used to make requests in the test cases.
